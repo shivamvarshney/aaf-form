@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of aaf-form
+ */
+export { AafFormService } from './lib/aaf-form.service';
+export {} from './lib/aaf-form.component';
+export { AafFormModule } from './lib/aaf-form.module';
+export { AafFormComponent } from './lib/aaf-form.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FhZi1mb3JtLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsK0JBQWMsd0JBQXdCLENBQUM7QUFDdkMsZUFBYywwQkFBMEIsQ0FBQztBQUN6Qyw4QkFBYyx1QkFBdUIsQ0FBQztBQUN0QyxPQUFPLEVBQUUsZ0JBQWdCLEVBQUUsTUFBTSwwQkFBMEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYWFmLWZvcm1cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9hYWYtZm9ybS5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FhZi1mb3JtLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9hYWYtZm9ybS5tb2R1bGUnO1xuZXhwb3J0IHsgQWFmRm9ybUNvbXBvbmVudCB9IGZyb20gJy4vbGliL2FhZi1mb3JtLmNvbXBvbmVudCc7XG5leHBvcnQgeyBFdmVudHNUeXBlLEV2ZW50cyxWYWxpZGF0b3Isb3B0aW9ucyxGaWVsZENvbmZpZyxGb3JtRGV0YWlscyB9IGZyb20gJy4vbGliL2ZpZWxkLmludGVyZmFjZSc7ICBcbmV4cG9ydCB7IEFjdGlvbixBY3Rpb25zUHJvdmlkZXIgfSBmcm9tICcuL2xpYi9hYWYtZm9ybS1hY3Rpb25zLXByb3ZpZGVyJzsgICJdfQ==

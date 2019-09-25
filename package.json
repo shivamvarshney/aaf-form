@@ -1,0 +1,21 @@
+{
+  "name": "aaf-form",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/aaf-form.umd.js",
+  "module": "fesm5/aaf-form.js",
+  "es2015": "fesm2015/aaf-form.js",
+  "esm5": "esm5/aaf-form.js",
+  "esm2015": "esm2015/aaf-form.js",
+  "fesm5": "fesm5/aaf-form.js",
+  "fesm2015": "fesm2015/aaf-form.js",
+  "typings": "aaf-form.d.ts",
+  "metadata": "aaf-form.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
